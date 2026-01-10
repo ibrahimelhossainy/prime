@@ -3,7 +3,7 @@
     {
       "id": "math_u1",
       "unitName": "الوحدة الأولى الحساب",
-      "icon": "numbers_icon.png",
+      "icon": "ime.png",
       "isFree": true,
       "resources": [
         {
@@ -164,7 +164,7 @@
     {
       "id": "math_u2",
       "unitName": "الوحدة الثانية: الهندسة والقياس",
-      "icon": "geometry_icon.png",
+      "icon": "ime.png",
       "isFree": false,
       "resources": [
         {
@@ -325,7 +325,7 @@
     {
       "id": "math_u3",
       "unitName": "الوحدة الثالثة إحصاء وبيانات",
-      "icon": "data_icon.png",
+      "icon": "ime.png",
       "isFree": false,
       "resources": [
         {
