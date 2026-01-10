@@ -1,0 +1,487 @@
+{
+  "units": [
+    {
+      "id": "math_u1",
+      "unitName": "الوحدة الأولى الحساب",
+      "icon": "numbers_icon.png",
+      "isFree": true,
+      "resources": [
+        {
+          "type": "pdf",
+          "title": "كتاب الأعداد - PDF",
+          "url": "https://example.com/files/math_u1.pdf"
+        },
+        {
+          "type": "video",
+          "title": "درس فيديو: الجمع والطرح",
+          "url": "https://www.youtube.com/watch?v=example_math1"
+        },
+        {
+          "type": "audio",
+          "title": "بودكاست: جدول الضرب",
+          "url": "https://example.com/audio/lesson_math1.mp3"
+        },
+        {
+          "type": "quiz",
+          "title": "اختبار الأعداد"
+        }
+      ],
+      "questions": [
+        {
+          "questionText": "قيمة الرقم 5 في العدد 456 هي ............",
+          "options": [
+            "5",
+            "50",
+            "500",
+            "5000"
+          ],
+          "correctAnswer": "50",
+          "points": 10
+        },
+        {
+          "questionText": "ناتج جمع 125 + 230 هو ............",
+          "options": [
+            "355",
+            "345",
+            "365",
+            "455"
+          ],
+          "correctAnswer": "355",
+          "points": 10
+        },
+        {
+          "questionText": "العدد الأولي من بين الأعداد التالية هو ............",
+          "options": [
+            "4",
+            "7",
+            "9",
+            "10"
+          ],
+          "correctAnswer": "7",
+          "points": 10
+        },
+        {
+          "questionText": "ناتج ضرب 8 × 7 يساوي ............",
+          "options": [
+            "54",
+            "56",
+            "48",
+            "64"
+          ],
+          "correctAnswer": "56",
+          "points": 10
+        },
+        {
+          "questionText": "أكبر عدد مكون من 4 أرقام مختلفة هو ............",
+          "options": [
+            "9999",
+            "9876",
+            "1000",
+            "1023"
+          ],
+          "correctAnswer": "9876",
+          "points": 10
+        },
+        {
+          "questionText": "ناتج طرح 500 - 150 يساوي ............",
+          "options": [
+            "350",
+            "450",
+            "250",
+            "400"
+          ],
+          "correctAnswer": "350",
+          "points": 10
+        },
+        {
+          "questionText": "أي من الأعداد التالية يقبل القسمة على 2؟",
+          "options": [
+            "13",
+            "25",
+            "48",
+            "91"
+          ],
+          "correctAnswer": "48",
+          "points": 10
+        },
+        {
+          "questionText": "القيمة المكانية للرقم 1 في العدد 1,234 هي ............",
+          "options": [
+            "آحاد",
+            "عشرات",
+            "مئات",
+            "ألوف"
+          ],
+          "correctAnswer": "ألوف",
+          "points": 10
+        },
+        {
+          "questionText": "ناتج قسمة 45 ÷ 9 يساوي ............",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "9"
+          ],
+          "correctAnswer": "5",
+          "points": 10
+        },
+        {
+          "questionText": "العدد التالي في النمط: 2، 4، 6، 8، ... هو ............",
+          "options": [
+            "9",
+            "10",
+            "12",
+            "11"
+          ],
+          "correctAnswer": "10",
+          "points": 10
+        },
+        {
+          "questionText": "أي الكسور التالية يكافئ النصف (1/2)؟",
+          "options": [
+            "2/4",
+            "1/3",
+            "3/5",
+            "2/5"
+          ],
+          "correctAnswer": "2/4",
+          "points": 10
+        },
+        {
+          "questionText": "مضاعفات العدد 5 تبدأ دائماً برقم ............",
+          "options": [
+            "0 أو 5",
+            "2 أو 4",
+            "1 أو 3",
+            "6 أو 8"
+          ],
+          "correctAnswer": "0 أو 5",
+          "points": 10
+        }
+      ]
+    },
+    {
+      "id": "math_u2",
+      "unitName": "الوحدة الثانية: الهندسة والقياس",
+      "icon": "geometry_icon.png",
+      "isFree": false,
+      "resources": [
+        {
+          "type": "pdf",
+          "title": "الهندسة والقياس - PDF",
+          "url": "https://example.com/files/math_u2.pdf"
+        },
+        {
+          "type": "video",
+          "title": "فيديو: الأشكال الهندسية",
+          "url": "https://www.youtube.com/watch?v=example_math2"
+        },
+        {
+          "type": "audio",
+          "title": "بودكاست: وحدات القياس",
+          "url": "https://example.com/audio/lesson_math2.mp3"
+        },
+        {
+          "type": "quiz",
+          "title": "اختبار الهندسة"
+        }
+      ],
+      "questions": [
+        {
+          "questionText": "الشكل الذي له 3 أضلاع و3 زوايا هو ............",
+          "options": [
+            "المربع",
+            "المثلث",
+            "المستطيل",
+            "الدائرة"
+          ],
+          "correctAnswer": "المثلث",
+          "points": 10
+        },
+        {
+          "questionText": "محيط المربع الذي طول ضلعه 5 سم يساوي ............",
+          "options": [
+            "20 سم",
+            "25 سم",
+            "15 سم",
+            "10 سم"
+          ],
+          "correctAnswer": "20 سم",
+          "points": 10
+        },
+        {
+          "questionText": "الزاوية القائمة قياسها ............",
+          "options": [
+            "90 درجة",
+            "180 درجة",
+            "45 درجة",
+            "60 درجة"
+          ],
+          "correctAnswer": "90 درجة",
+          "points": 10
+        },
+        {
+          "questionText": "وحدة قياس الطول هي ............",
+          "options": [
+            "الكيلوجرام",
+            "اللتر",
+            "المتر",
+            "الساعة"
+          ],
+          "correctAnswer": "المتر",
+          "points": 10
+        },
+        {
+          "questionText": "عدد رؤوس المكعب يساوي ............",
+          "options": [
+            "4",
+            "6",
+            "8",
+            "12"
+          ],
+          "correctAnswer": "8",
+          "points": 10
+        },
+        {
+          "questionText": "مساحة المستطيل الذي طوله 6 سم وعرضه 4 سم هي ............",
+          "options": [
+            "24 سم²",
+            "20 سم²",
+            "10 سم²",
+            "12 سم²"
+          ],
+          "correctAnswer": "24 سم²",
+          "points": 10
+        },
+        {
+          "questionText": "الشكل الرباعي الذي جميع أضلاعه متساوية في الطول وزواياه قائمة هو ............",
+          "options": [
+            "المستطيل",
+            "المعين",
+            "المربع",
+            "شبه المنحرف"
+          ],
+          "correctAnswer": "المربع",
+          "points": 10
+        },
+        {
+          "questionText": "عدد أضلاع الشكل السداسي هو ............",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "correctAnswer": "6",
+          "points": 10
+        },
+        {
+          "questionText": "اللتر هو وحدة قياس ............",
+          "options": [
+            "الكتلة",
+            "الطول",
+            "السعة",
+            "الوقت"
+          ],
+          "correctAnswer": "السعة",
+          "points": 10
+        },
+        {
+          "questionText": "الزاوية التي قياسها أقل من 90 درجة تسمى زاوية ............",
+          "options": [
+            "حادة",
+            "منفرجة",
+            "قائمة",
+            "مستقيمة"
+          ],
+          "correctAnswer": "حادة",
+          "points": 10
+        },
+        {
+          "questionText": "الخط المستقيم الذي يقسم الدائرة إلى نصفين متطابقين يسمى ............",
+          "options": [
+            "الوتر",
+            "القطر",
+            "نصف القطر",
+            "المحيط"
+          ],
+          "correctAnswer": "القطر",
+          "points": 10
+        },
+        {
+          "questionText": "1 كيلوجرام يساوي ............ جرام.",
+          "options": [
+            "100",
+            "1000",
+            "10",
+            "500"
+          ],
+          "correctAnswer": "1000",
+          "points": 10
+        }
+      ]
+    },
+    {
+      "id": "math_u3",
+      "unitName": "الوحدة الثالثة إحصاء وبيانات",
+      "icon": "data_icon.png",
+      "isFree": false,
+      "resources": [
+        {
+          "type": "pdf",
+          "title": "الإحصاء والاحتمالات - PDF",
+          "url": "https://example.com/files/math_u3.pdf"
+        },
+        {
+          "type": "video",
+          "title": "فيديو: تمثيل البيانات",
+          "url": "https://www.youtube.com/watch?v=example_math3"
+        },
+        {
+          "type": "audio",
+          "title": "بودكاست: قراءة الرسوم البيانية",
+          "url": "https://example.com/audio/lesson_math3.mp3"
+        },
+        {
+          "type": "quiz",
+          "title": "اختبار الإحصاء"
+        }
+      ],
+      "questions": [
+        {
+          "questionText": "أفضل طريقة لتمثيل النسب المئوية هي ............",
+          "options": [
+            "الأعمدة البيانية",
+            "القطاعات الدائرية",
+            "الخط البياني",
+            "الصور"
+          ],
+          "correctAnswer": "القطاعات الدائرية",
+          "points": 10
+        },
+        {
+          "questionText": "العدد الأكثر تكراراً في مجموعة من البيانات يسمى ............",
+          "options": [
+            "المنوال",
+            "الوسيط",
+            "المتوسط",
+            "المدى"
+          ],
+          "correctAnswer": "المنوال",
+          "points": 10
+        },
+        {
+          "questionText": "إذا كان احتمال وقوع حدث ما هو 1، فإنه حدث ............",
+          "options": [
+            "مستحيل",
+            "مؤكد",
+            "محتمل",
+            "نادر"
+          ],
+          "correctAnswer": "مؤكد",
+          "points": 10
+        },
+        {
+          "questionText": "الفرق بين أكبر قيمة وأصغر قيمة في مجموعة بيانات يسمى ............",
+          "options": [
+            "المتوسط",
+            "الوسيط",
+            "المدى",
+            "المنوال"
+          ],
+          "correctAnswer": "المدى",
+          "points": 10
+        },
+        {
+          "questionText": "عند رمي حجر نرد مرة واحدة، احتمال ظهور العدد 7 هو ............",
+          "options": [
+            "0",
+            "1",
+            "1/6",
+            "1/2"
+          ],
+          "correctAnswer": "0",
+          "points": 10
+        },
+        {
+          "questionText": "البيانات التي يمكن عدها تسمى بيانات ............",
+          "options": [
+            "كمية",
+            "وصفية",
+            "نوعية",
+            "لونية"
+          ],
+          "correctAnswer": "كمية",
+          "points": 10
+        },
+        {
+          "questionText": "لحساب المتوسط الحسابي، نقوم بـ ............ القيم على عددها.",
+          "options": [
+            "ضرب",
+            "قسمة مجموع",
+            "طرح",
+            "ترتيب"
+          ],
+          "correctAnswer": "قسمة مجموع",
+          "points": 10
+        },
+        {
+          "questionText": "في الرسم البياني بالأعمدة، يمثل المحور الرأسي عادة ............",
+          "options": [
+            "التكرار",
+            "الزمن",
+            "النوع",
+            "الاسم"
+          ],
+          "correctAnswer": "التكرار",
+          "points": 10
+        },
+        {
+          "questionText": "الوسيط للقيم: 3، 5، 7، 9، 11 هو ............",
+          "options": [
+            "5",
+            "7",
+            "9",
+            "3"
+          ],
+          "correctAnswer": "7",
+          "points": 10
+        },
+        {
+          "questionText": "احتمال ظهور صورة عند رمي عملة معدنية هو ............",
+          "options": [
+            "1/2",
+            "1/4",
+            "1/3",
+            "1"
+          ],
+          "correctAnswer": "1/2",
+          "points": 10
+        },
+        {
+          "questionText": "تستخدم العلامات التكرارية (////) لتمثيل العدد ............",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "correctAnswer": "4",
+          "points": 10
+        },
+        {
+          "questionText": "أي مما يلي يعتبر من البيانات الوصفية؟",
+          "options": [
+            "العمر",
+            "الوزن",
+            "اللون المفضل",
+            "الطول"
+          ],
+          "correctAnswer": "اللون المفضل",
+          "points": 10
+        }
+      ]
+    }
+  ]
+}
