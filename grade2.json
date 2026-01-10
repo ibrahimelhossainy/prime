@@ -3,7 +3,7 @@
     {
       "id": "ar_u1",
       "unitName": "الوحدة الأولى",
-      "icon": "grammar_icon.png",
+      "icon": "ime.png",
       "isFree": true,
       "resources": [
         {
@@ -164,7 +164,7 @@
     {
       "id": "ar_u2",
       "unitName": "الوحدة الثانية القراءة",
-      "icon": "reading_icon.png",
+      "icon": "ime.png",
       "isFree": false,
       "resources": [
                {
@@ -325,7 +325,7 @@
     {
       "id": "ar_u3",
       "unitName": "الوحدة الثالثة: الإملاء والتعبير",
-      "icon": "writing_icon.png",
+      "icon": "ime.png",
       "isFree": false,
       "resources": [
                {
