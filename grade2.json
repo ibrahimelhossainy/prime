@@ -2,18 +2,18 @@
   "units": [
     {
       "id": "ar_u1",
-      "unitName": "الوحدة الأولى: القواعد النحوية",
+      "unitName": "الوحدة الأولى",
       "icon": "grammar_icon.png",
       "isFree": true,
       "resources": [
         {
           "type": "pdf",
-          "title": "شرح القواعد النحوية - PDF",
+          "title": "كتاب النحو - PDF",
           "url": "https://example.com/files/arabic_u1.pdf"
         },
         {
           "type": "video",
-          "title": "درس فيديو: الجملة الاسمية والفعلية",
+          "title": "فيديو: الجملة الاسمية والفعلية",
           "url": "https://www.youtube.com/watch?v=example_ar1"
         },
         {
@@ -163,24 +163,24 @@
     },
     {
       "id": "ar_u2",
-      "unitName": "الوحدة الثانية: القراءة والنصوص",
+      "unitName": "الوحدة الثانية القراءة",
       "icon": "reading_icon.png",
       "isFree": false,
       "resources": [
-        {
+               {
           "type": "pdf",
-          "title": "نصوص أدبية وقصص - PDF",
-          "url": "https://example.com/files/arabic_u2.pdf"
+          "title": "كتاب النحو - PDF",
+          "url": "https://example.com/files/arabic_u1.pdf"
         },
         {
           "type": "video",
-          "title": "فيديو: شرح نص (حب الوطن)",
-          "url": "https://www.youtube.com/watch?v=example_ar2"
+          "title": "فيديو: الجملة الاسمية والفعلية",
+          "url": "https://www.youtube.com/watch?v=example_ar1"
         },
         {
           "type": "audio",
-          "title": "بودكاست: قراءة شعرية",
-          "url": "https://example.com/audio/lesson_ar2.mp3"
+          "title": "بودكاست: علامات الإعراب",
+          "url": "https://example.com/audio/lesson_ar1.mp3"
         },
         {
           "type": "quiz",
@@ -328,20 +328,20 @@
       "icon": "writing_icon.png",
       "isFree": false,
       "resources": [
-        {
+               {
           "type": "pdf",
-          "title": "قواعد الإملاء - PDF",
-          "url": "https://example.com/files/arabic_u3.pdf"
+          "title": "قواعد الإملاء PDF",
+          "url": "https://example.com/files/arabic_u1.pdf"
         },
         {
           "type": "video",
-          "title": "فيديو: الهمزة المتوسطة والمتطرفة",
-          "url": "https://www.youtube.com/watch?v=example_ar3"
+          "title": "فيديو الجملة الاسمية والفعلية",
+          "url": "https://www.youtube.com/watch?v=example_ar1"
         },
         {
           "type": "audio",
-          "title": "بودكاست: فن الكتابة والتعبير",
-          "url": "https://example.com/audio/lesson_ar3.mp3"
+          "title": "بودكاست علامات الإعراب",
+          "url": "https://example.com/audio/lesson_ar1.mp3"
         },
         {
           "type": "quiz",
