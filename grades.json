@@ -2,7 +2,7 @@
 "grades": [
 {
 "id": "g1",
-"name": "ألأول الإعدادي",
+"name": "الأول الإعدادي",
 "icon": "fas fa-child",
 "jsonUrl": "https://raw.githubusercontent.com/ibrahimelhossainy/prime/refs/heads/main/grade1.json"
 },
