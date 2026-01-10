@@ -3,7 +3,7 @@
     {
       "id": "ss_u1",
       "unitName": "الوحدة الأولى: البيئة الطبيعية",
-      "icon": "geography_icon.png",
+      "icon": "ime.png",
       "isFree": true,
       "resources": [
         {
@@ -164,7 +164,7 @@
     {
       "id": "ss_u2",
       "unitName": "الوحدة الثانية: تاريخ مصر القديم",
-      "icon": "history_icon.png",
+      "icon": "ime.png",
       "isFree": false,
       "resources": [
         {
@@ -325,7 +325,7 @@
     {
       "id": "ss_u3",
       "unitName": "الوحدة الثالثة: حياتنا الاجتماعية والاقتصادية",
-      "icon": "society_icon.png",
+      "icon": "ime.png",
       "isFree": false,
       "resources": [
         {
