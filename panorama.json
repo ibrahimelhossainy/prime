@@ -1,7 +1,7 @@
 {
   "version": 1.5,
   "images": [
-    { "id": "img1", "url": "https://lh3.googleusercontent.com/gpms-cs-s/AFfmt2bxA5atO5-i_ISgb_yyT4hozSmoA4LIjOe-Xb4UPAv4XfYCKEFnqvK9PG37CB3tQ3Kv-UKurRe-WlhtpQkpnGVsyNHkdIcthAZmNybpJkL0iUuj1x8KCXjTENewmXniZ5pIr79l=w2000-h1000-k-no", "is_free": true, "grade": "g1" },
-    { "id": "img2", "url": "...", "is_free": false, "grade": "g1" }
+    { "id": "img1", "url": "https://e.top4top.io/p_36818jdkm1.jpg", "is_free": true, "grade": "g1" },
+    { "id": "img2", "url": "https://e.top4top.io/p_36818jdkm1.jpg", "is_free": false, "grade": "g2" }
   ]
 }
