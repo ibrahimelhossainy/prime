@@ -1,0 +1,7 @@
+{
+  "version": 1.5,
+  "images": [
+    { "id": "img1", "url": "...", "is_free": true, "grade": "g1" },
+    { "id": "img2", "url": "...", "is_free": false, "grade": "g1" }
+  ]
+}
